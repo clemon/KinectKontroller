@@ -1,0 +1,20 @@
+﻿ControlsBasics-WPF
+
+
+winexe
+C#
+.cs
+D:\Shared\Programming\Visual Studio Projects\ControlsBasics-WPF\obj\Debug\
+Microsoft.Samples.Kinect.ControlsBasics
+none
+false
+DEBUG;TRACE
+D:\Shared\Programming\Visual Studio Projects\ControlsBasics-WPF\App.xaml
+10-417085828
+
+21-1154045073
+171832633989
+Common\StandardStyles.xaml;HandPointers\HandPointerStyles.xaml;MainWindow.xaml;Pages\PlayPage.xaml;Pages\SettingsPage.xaml;Pages\LeaderboardPage.xaml;Pages\ItemsControlsSample.xaml;Pages\ProfilePage.xaml;Pages\SliderSample.xaml;SelectionDisplay.xaml;
+
+True
+
